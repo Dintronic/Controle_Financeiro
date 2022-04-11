@@ -1,0 +1,51 @@
+nav{
+    margin-bottom: 20px;
+}
+.container{
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.azul{
+    color: rgb(0, 12, 184);
+}
+.vermelho{
+    color: rgba(255, 0, 0, 0.774);
+}
+.aviso{
+    color: rgba(255, 0, 0, 0.774);
+    font-weight: bold;    
+}
+.alerta{
+    color: rgb(164, 0, 240);
+    font-weight: bold;
+}
+.card{
+    margin-bottom: 10px;
+    border: 1px solid rgb(122, 122, 122);
+    box-shadow: 5px 5px 5px rgb(88, 88, 88);
+}
+.card-1{
+    margin-top: -20px;
+    color: teal;
+    font-weight: bold;
+    font-size: 18px;
+}
+h5{
+    color: white;
+}
+.preto{
+    color: black;
+}
+.anexo{
+    margin: auto;
+    width: 50%;
+}
+.linha{
+    border-top: 1.5px solid black;
+    border-bottom: white ;
+}
